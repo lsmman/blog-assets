@@ -2,4 +2,4 @@
 
 Blog post assets, one folder per project.
 
-- `orca/` — Orca IDE 설치 가이드 (images)
+- `orca-setup-guide/` — Orca IDE 설치 가이드
